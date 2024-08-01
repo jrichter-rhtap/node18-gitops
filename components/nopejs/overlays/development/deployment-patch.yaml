@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: quay.io/jrichter/nodejs:17a837dc6d03752fb56e743c7e7f0929ba12845d@sha256:915277f59839e82379b74554f0567d26f98ac6e115818154cb8f766fb75eb2a4
+        - image: quay.io/jrichter/nodejs:670aecb314d40cdba1a5eff596e881ab1dc72dfd@sha256:63522d6031b3007f50dd92b1b7d5c756b29df7b40a899db6cc2f69ef69a93b75
           name: container-image
